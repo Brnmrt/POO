@@ -1,0 +1,42 @@
+precos
+cidade a
+cidade b
+saves inicial
+comprac a C
+comprac b M
+caravana 2
+caravana 1
+move 2 D
+move 1 B
+move 1 B
+auto 2
+stop 2
+areia 3 3 2
+prox 5
+move 2 D
+prox 2
+compra 2 10
+vende 2
+precos
+moedas 500
+tripul 2 5
+caravana 0
+barbaro 4 4
+move 1 D
+move 1 D
+prox 1
+prox 3
+caravana 1
+saves estado1
+prox 2
+saves estado2
+loads estado1
+lists
+dels estado2
+comprac a S
+secreta 20 mercadoria b
+prox 6
+barbaro 6 6
+secreta 20 destroi 3
+prox 5
+terminar
